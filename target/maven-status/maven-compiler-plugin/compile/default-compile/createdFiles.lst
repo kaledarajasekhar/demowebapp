@@ -1,0 +1,15 @@
+genaricutilities\PropertiesUtility.class
+genaricutilities\IPathUtility.class
+objectrepository\Accessories.class
+genaricutilities\BaseClass.class
+genaricutilities\DriverManager.class
+genaricutilities\TestListenerSynchronization.class
+genaricutilities\JavaUtility.class
+genaricutilities\RetryAnalyzerImplementation.class
+genaricutilities\SeleniumUtility.class
+genaricutilities\ExcelUtility.class
+genaricutilities\TestListeners.class
+objectrepository\RegisterPage.class
+objectrepository\HomePage.class
+objectrepository\Desktop.class
+objectrepository\LoginPage.class
