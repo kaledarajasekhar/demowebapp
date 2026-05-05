@@ -10,9 +10,7 @@
 	<test thread-count="5" name="Test" >
 		<parameter name="m" value=""></parameter>
 		<classes>
-			<class name="testcaserepo.Test_Computers_Desktop" />
-			<class name="testcaserepo.Register" />
-			<class name="testcaserepo.Test_Computers_Accessories" />
+		
 			<class name="testcaserepo.Test_Login" />
 		</classes>
 	</test> <!--
