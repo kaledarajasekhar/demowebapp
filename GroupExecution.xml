@@ -4,6 +4,8 @@
 	<groups>
 		<run>
 			<!-- < name="Smoke" /> -->
+			<exclude name="Smoke" />
+			<include name="Sanity" />
 			<include name="Regression" />
 		</run>
 	</groups>
