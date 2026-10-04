@@ -31,8 +31,11 @@ public class BaseClass {
 	@BeforeClass(alwaysRun = true)
 	public void launch(@Optional("chrome") String browser) throws Throwable {
 		ChromeOptions options = new ChromeOptions();
-//		options.addArguments("headless");
-
+		options.addArguments("--disable-notifications");
+		String BROWSER = System.getProperty("browser");
+		if(BROWSER!=null) {
+			browser=BROWSER;
+		}
 		switch (browser.toLowerCase()) {
 		case "chrome":
 			driver = new ChromeDriver(options);

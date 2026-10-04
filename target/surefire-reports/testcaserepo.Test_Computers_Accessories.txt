@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testcaserepo.Test_Computers_Accessories
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.56 s -- in testcaserepo.Test_Computers_Accessories

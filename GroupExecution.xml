@@ -3,15 +3,15 @@
 <suite name="Suite" parallel="classes" >
 	<groups>
 		<run>
-			<include name="Smoke" />
-			<exclude name="Regression" />
+			<!-- < name="Smoke" /> -->
+			<include name="Regression" />
 		</run>
 	</groups>
 	<test thread-count="5" name="Test" >
 		<parameter name="m" value=""></parameter>
 		<classes>
 		
-			<class name="testcaserepo.Test_Login" />
+			<class name="testcaserepo.Test_Computers_Accessories" />
 		</classes>
 	</test> <!--
 	Test -->

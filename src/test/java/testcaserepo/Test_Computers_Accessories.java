@@ -70,7 +70,7 @@ public class Test_Computers_Accessories extends BaseClass {
 		}
 	}
 
-	@Test(priority = 6,groups = {"Regression"})
+	@Test(priority = 6,groups = "Regression")
 	public void displayAccessoriesPerPage() {
 		selUtil.selectOptionByVisibleText(acc.getDisplayDropDown(), "4");
 		Assert.assertTrue(acc.getAccPrices().size() == 4);

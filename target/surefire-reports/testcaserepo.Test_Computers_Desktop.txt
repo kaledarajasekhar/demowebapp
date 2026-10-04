@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: TestSuite
+Test set: testcaserepo.Test_Computers_Desktop
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.00 s -- in TestSuite
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.16 s -- in testcaserepo.Test_Computers_Desktop
