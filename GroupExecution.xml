@@ -3,8 +3,8 @@
 <suite name="Suite" parallel="classes" >
 	<groups>
 		<run>
-			<include name="Smoke" />
-			<exclude name="Regression" />
+			<exclude name="Smoke" />
+			<include name="Regression" />
 		</run>
 	</groups>
 	<test thread-count="5" name="Test" >
