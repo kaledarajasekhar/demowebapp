@@ -11,7 +11,7 @@
 		<parameter name="m" value=""></parameter>
 		<classes>
 		
-			<class name="testcaserepo.Test_Login" />
+			<class name="testcaserepo.Test_Computers_Accessories" />
 		</classes>
 	</test> <!--
 	Test -->
